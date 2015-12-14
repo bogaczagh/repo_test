@@ -3,7 +3,11 @@
 using namespace std ;
 
 float odA[3][3], dop[3][3], A[3][3]={1,2,3,2,1,4,2,1,5};
+<<<<<<< HEAD
 int i, j, zmiana2;                          
+=======
+int i, j, zmiana;                          
+>>>>>>> nowa2
 
 main()
 {

@@ -1,7 +1,11 @@
 #include<math.h>
 #include<iostream.h>
 
+<<<<<<< HEAD
 int a,b,c ,zmiana2;
+=======
+int a,b,c, zmiana;
+>>>>>>> nowa2
 int delta(int a, int b,int c)
 {return b*b-4*a*c;}
 float e(int a,int  b)

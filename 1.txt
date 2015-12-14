@@ -2,7 +2,11 @@
 #include <stdio.h>
 
 
+<<<<<<< HEAD
 float n,x, zmiana2;
+=======
+float n,x, zmiana;
+>>>>>>> nowa2
  
 float fib(float n)
 

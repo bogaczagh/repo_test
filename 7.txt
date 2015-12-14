@@ -3,7 +3,11 @@
 #include <math.h>
 
 int n;
+<<<<<<< HEAD
 double x, zmiana2;
+=======
+double x, zmiana;
+>>>>>>> nowa2
 const int M=200;
 double T[M];
 
