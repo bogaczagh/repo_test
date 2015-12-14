@@ -2,7 +2,7 @@
 #include <stdio.h>
 
 
-float n,x;
+float n,x, zmiana;
  
 float fib(float n)
 
