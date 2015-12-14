@@ -10,7 +10,7 @@ float roznica (float a, float b)
       return a-b;
       }
 
-float a; float b;
+float a; float b, zmiana;
 float iloczyn (float a, float b)
 {
       return a*b;
