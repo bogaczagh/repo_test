@@ -23,7 +23,7 @@ float iloraz (float a, float b)
 
 main()
 {
-      float a,b;
+      float a,b, zmiana2;
      
 cout<<"podaj liczbe: ";
 cin>>a;
