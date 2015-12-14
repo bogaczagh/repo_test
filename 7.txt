@@ -9,7 +9,7 @@ double T[M];
 
 int czytaj()
 {
-    int i;
+    int i ;
    
     do
     {
