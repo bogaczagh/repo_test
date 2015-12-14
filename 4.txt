@@ -4,7 +4,7 @@
 
 char *T[]={"to jest a b pierwszytekst", "to jest abc drugi tekst", "to jest a b b d trzeci tekst", "a b c d e f"};
 int main(){
-    int N,i,j,k,zmiana2;
+    int N,i,j,k, zmiana2;
     char *tmp;
     for(i=0;i<3;i++)
     {
