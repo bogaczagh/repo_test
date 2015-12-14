@@ -3,7 +3,7 @@
 #include <math.h>
 
 int n;
-double x;
+double x, zmiana;
 const int M=200;
 double T[M];
 
